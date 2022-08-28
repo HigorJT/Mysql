@@ -432,7 +432,7 @@ DELETE FROM sakila.actor
 ```
 
 
-⚠️ Caso seja necessário, fazer um `DELETE` sem `WHERE`:
+⚠️ Caso seja necessário fazer um `DELETE` sem `WHERE`:
 
 ```sql
 SET SQL_SAFE_UPDATES = 0;
